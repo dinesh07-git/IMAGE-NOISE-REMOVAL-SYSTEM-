@@ -1,1 +1,0 @@
-Image noise removal system 
